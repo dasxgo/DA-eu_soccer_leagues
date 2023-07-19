@@ -1,2 +1,3 @@
-# DA-leggues
-Análisis de datos de ligas de futbol
+# DA-eu_soccer_leagues
+
+Data analysis of Europa soccer leagues with SQLite and Matplotlib
