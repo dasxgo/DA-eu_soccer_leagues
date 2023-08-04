@@ -1,3 +1,6 @@
-# eu-soccer
+# Europa Soccer Leagues
+EDA of Europa soccer leagues 
 
-Data analysis of Europa soccer leagues with SQLite and Matplotlib
+## Use
+- SQLite
+- Matplotlib
