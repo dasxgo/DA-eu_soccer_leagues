@@ -1,6 +1,6 @@
 # Europa Soccer Leagues
 EDA - Europa soccer leagues 
 
-## Contents
+## Tools
 - SQLite
 - Matplotlib
