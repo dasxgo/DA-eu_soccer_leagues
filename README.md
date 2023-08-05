@@ -1,5 +1,5 @@
 # Europa Soccer Leagues
-EDA of Europa soccer leagues 
+EDA - Europa soccer leagues 
 
 ## Contents
 - SQLite
